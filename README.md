@@ -42,11 +42,10 @@ Want to see different information on the nodes? Change what labels display:
 1. In Gephi Lite, go to **"Appearance"** → **"Labels"**
 2. Under **"Nodes"**, find **"Set label from"**
 3. Choose what to display:
-   - **"Label"** - Shows the full study title (default)
-   - **"Layer"** - Shows which level the study examines
-   - **"Category"** - Shows the research category/topic
-   - **"Measure_Category"** - Shows the outcome measure type
-
+   - **"Label"** - Shows the outcome measure
+   - **"Layer"** - Shows which level the outcome measure is categorised to
+   - **"Category"** - Shows which level and measure category the outcome measure is categorised to
+  
 This lets you view the network from different perspectives!
 
 ---

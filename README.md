@@ -1,6 +1,6 @@
 # ⚽ Football Adaptation Studies - Network Graph
 
-Interactive network visualization of 31+ research studies on football training adaptations.
+Interactive network visualization of research studies on football training adaptations.
 
 ---
 

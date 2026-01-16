@@ -1,76 +1,100 @@
 # ⚽ Football Adaptation Studies - Network Graph
 
-## 🚀 Explore the Interactive Graph
-
-**[Click here to explore in Gephi Lite](https://gephi.org/gephi-lite/?gist=a6a1e61039bdb05b0b16d5c299a8f850)**
-
-Interactive network visualization of football training adaptation research.
-
-## 📥 Download
-
-[Download GEXF file](https://AdamSull89.github.io/Football-Adaptation/FootballAdaptation.gexf) to open in Gephi Desktop.
-
-## 📊 What's Inside
-
-This network graph visualizes connections between **31+ research studies** on football training adaptations, including:
-
-- 🏃‍♂️ High-Intensity Interval Training (HIIT)
-- 💪 Strength & Power Training
-- 📉 Detraining Effects
-- 📅 Seasonal Adaptations
-- 👦 Youth Development
-- 🔬 Physiological Markers
-
-## 🎯 How to Use the Graph
-
-- **Click and drag** nodes to rearrange
-- **Scroll** to zoom in/out
-- **Click nodes** to view study details
-- **Search** for specific topics
-- **Change layouts** from the menu
-- **Apply filters** to focus on specific areas
-
-## 🔄 Last Updated
-
-January 2026
+Interactive network visualization of 31+ research studies on football training adaptations.
 
 ---
 
-**Repository:** [github.com/AdamSull89/Football-Adaptation](https://github.com/AdamSull89/Football-Adaptation)
+## 🚀 View the Interactive Graph (2 Steps)
+
+### **Step 1: Download the Graph File**
+
+**[📥 Click here to download FootballAdaptation.json](https://gist.githubusercontent.com/AdamSull89/a6a1e61039bdb05b0b16d5c299a8f850/raw/703c19c2df8fb819197bf38a39798c95549bb8c6/FootballAdaptation.json)**
+
+*(Right-click → "Save Link As" if it opens in browser)*
+
+---
+
+### **Step 2: Open in Gephi Lite**
+
+1. **[🔗 Go to Gephi Lite](https://gephi.org/gephi-lite/)** (opens in new tab)
+2. Click **"Open graph"**
+3. Click **"From computer"**
+4. Select the `FootballAdaptation.json` file you just downloaded
+5. **✅ Your interactive graph will load!**
+
+---
+
+## 🎯 How to Explore
+
+Once your graph loads in Gephi Lite:
+
+- **🖱️ Click and drag** nodes to rearrange them
+- **🔍 Scroll** to zoom in/out
+- **👆 Click on nodes** to view study titles and details
+- **🔎 Use the search bar** to find specific topics or studies
+- **⚙️ Change layouts** from the menu (try "Force Atlas 2")
+- **🎛️ Apply filters** to focus on specific research areas
+
+---
+
+## 📚 What's in This Network?
+
+This graph visualizes connections between **31+ research studies** covering:
+
+- 🏃‍♂️ **High-Intensity Interval Training (HIIT)** - Effects and adaptations
+- 💪 **Strength & Power Training** - Combined protocols and seasonal variations
+- 📉 **Detraining Effects** - Impact of training breaks
+- 📅 **Seasonal Adaptations** - Physiological changes throughout seasons
+- 👦 **Youth Development** - Age-specific training responses
+- ⚽ **Small-Sided Games** - Training effectiveness
+- 🦵 **Plyometric Training** - Explosive power development
+- 🔬 **Physiological Markers** - Heart rate, lactate, hormonal responses
+
+---
+
+## 💾 Alternative Download
+
+**For Gephi Desktop users:**
+
+[Download GEXF file](https://AdamSull89.github.io/Football-Adaptation/FootballAdaptation.gexf) to open in [Gephi Desktop](https://gephi.org/)
+
+---
+
+## 📖 Citation
+
+If you use this visualization in your research or presentations:
+
+```
+Sullivan, A. (2026). Football Adaptation Studies Network Graph. 
+GitHub. https://github.com/AdamSull89/Football-Adaptation
 ```
 
 ---
 
-## **🎯 NOW DO THIS:**
+## 🔧 Technical Details
 
-1. **Test the link:** Click → https://gephi.org/gephi-lite/?gist=a6a1e61039bdb05b0b16d5c299a8f850
-2. **If it works:** ✅ You're done! Start sharing!
-3. **Update your README:** Replace current README with the text above
-4. **Share away:** Email, social media, papers, presentations
+- **Format:** JSON (Gephi Lite) & GEXF (Gephi Desktop)
+- **Visualization Tool:** Gephi Lite (web-based, no installation required)
+- **Content:** 31+ peer-reviewed research papers
+- **Last Updated:** January 2026
 
 ---
 
-## **📤 READY TO SHARE:**
+## 🤝 Contributing
 
-### **For Email:**
-```
-Hi [Name],
+Found an issue or want to suggest additional studies?
 
-Check out this interactive football adaptation research network:
-https://gephi.org/gephi-lite/?gist=a6a1e61039bdb05b0b16d5c299a8f850
+- 💬 [Open an issue](https://github.com/AdamSull89/Football-Adaptation/issues)
+- ⭐ Star this repository if you find it useful!
 
-You can explore connections between 31+ studies, zoom, search, and click nodes for details.
+---
 
-Best,
-Adam
-```
+## 📧 Contact
 
-### **For Social Media:**
-```
-📊 Interactive network visualization of football training adaptation research
+**Created by:** [Adam Sullivan](https://github.com/AdamSull89)
 
-31+ studies on HIIT, strength training, detraining, seasonal adaptations & more
+**Questions?** Open an issue or contact via GitHub
 
-Explore: https://gephi.org/gephi-lite/?gist=a6a1e61039bdb05b0b16d5c299a8f850
+---
 
-#SportsScience #Football #DataViz
+**🎉 Start exploring the research network now!** [Download graph](https://gist.githubusercontent.com/AdamSull89/a6a1e61039bdb05b0b16d5c299a8f850/raw/703c19c2df8fb819197bf38a39798c95549bb8c6/FootballAdaptation.json) → [Open Gephi Lite](https://gephi.org/gephi-lite/)

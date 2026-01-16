@@ -16,7 +16,7 @@ Interactive network visualization of research studies on football training adapt
 
 ### **Step 2: Open in Gephi Lite**
 
-1. **<a href="https://gephi.org/gephi-lite/" target="_blank">🔗 Go to Gephi Lite</a>** (opens in new tab)
+1. Right click this link and open in new tab **<a href="https://gephi.org/gephi-lite/" target="_blank">🔗 Go to Gephi Lite</a>** (opens in new tab)
 2. Click **"Open from local file"**
 3. Click **"Select from computer"**
 4. Select the `FootballAdaptation.json` file you just downloaded

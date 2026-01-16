@@ -16,9 +16,9 @@ Interactive network visualization of 31+ research studies on football training a
 
 ### **Step 2: Open in Gephi Lite**
 
-1. **[🔗 Go to Gephi Lite](https://gephi.org/gephi-lite/)** (opens in new tab)
-2. Click **"Open graph"**
-3. Click **"From computer"**
+1. **<a href="https://gephi.org/gephi-lite/" target="_blank">🔗 Go to Gephi Lite</a>** (opens in new tab)
+2. Click **"Open from local file"**
+3. Click **"Select from computer"**
 4. Select the `FootballAdaptation.json` file you just downloaded
 5. **✅ Your interactive graph will load!**
 
@@ -32,42 +32,22 @@ Once your graph loads in Gephi Lite:
 - **🔍 Scroll** to zoom in/out
 - **👆 Click on nodes** to view study titles and details
 - **🔎 Use the search bar** to find specific topics or studies
-- **⚙️ Change layouts** from the menu (try "Force Atlas 2")
-- **🎛️ Apply filters** to focus on specific research areas
 
 ---
 
-## 📚 What's in This Network?
+## 🏷️ Customize Node Labels
 
-This graph visualizes connections between **31+ research studies** covering:
+Want to see different information on the nodes? Change what labels display:
 
-- 🏃‍♂️ **High-Intensity Interval Training (HIIT)** - Effects and adaptations
-- 💪 **Strength & Power Training** - Combined protocols and seasonal variations
-- 📉 **Detraining Effects** - Impact of training breaks
-- 📅 **Seasonal Adaptations** - Physiological changes throughout seasons
-- 👦 **Youth Development** - Age-specific training responses
-- ⚽ **Small-Sided Games** - Training effectiveness
-- 🦵 **Plyometric Training** - Explosive power development
-- 🔬 **Physiological Markers** - Heart rate, lactate, hormonal responses
+1. In Gephi Lite, go to **"Appearance"** → **"Labels"**
+2. Under **"Nodes"**, find **"Set label from"**
+3. Choose what to display:
+   - **"Label"** - Shows the full study title (default)
+   - **"Layer"** - Shows which level the study examines
+   - **"Category"** - Shows the research category/topic
+   - **"Measure_Category"** - Shows the outcome measure type
 
----
-
-## 💾 Alternative Download
-
-**For Gephi Desktop users:**
-
-[Download GEXF file](https://AdamSull89.github.io/Football-Adaptation/FootballAdaptation.gexf) to open in [Gephi Desktop](https://gephi.org/)
-
----
-
-## 📖 Citation
-
-If you use this visualization in your research or presentations:
-
-```
-Sullivan, A. (2026). Football Adaptation Studies Network Graph. 
-GitHub. https://github.com/AdamSull89/Football-Adaptation
-```
+This lets you view the network from different perspectives!
 
 ---
 
@@ -96,5 +76,3 @@ Found an issue or want to suggest additional studies?
 **Questions?** Open an issue or contact via GitHub
 
 ---
-
-**🎉 Start exploring the research network now!** [Download graph](https://gist.githubusercontent.com/AdamSull89/a6a1e61039bdb05b0b16d5c299a8f850/raw/703c19c2df8fb819197bf38a39798c95549bb8c6/FootballAdaptation.json) → [Open Gephi Lite](https://gephi.org/gephi-lite/)

@@ -55,8 +55,7 @@ This lets you view the network from different perspectives!
 
 - **Format:** JSON (Gephi Lite) & GEXF (Gephi Desktop)
 - **Visualization Tool:** Gephi Lite (web-based, no installation required)
-- **Content:** 31+ peer-reviewed research papers
-- **Last Updated:** January 2026
+- - **Last Updated:** January 2026
 
 ---
 

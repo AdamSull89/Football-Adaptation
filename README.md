@@ -8,7 +8,7 @@ Interactive network visualization of research studies on football training adapt
 
 ### **Step 1: Download the Graph File**
 
-**[📥 Right click here and open in new tab, right click again and Save link as to download FootballAdaptation.json](https://gist.githubusercontent.com/AdamSull89/a6a1e61039bdb05b0b16d5c299a8f850/raw/703c19c2df8fb819197bf38a39798c95549bb8c6/FootballAdaptation.json)**
+**[📥 Right click here and open in new tab, right click again and Save link as to download FootballAdaptation.json](https://gist.githubusercontent.com/AdamSull89/21c9f38d604478e87edfc3f82f86c35a/raw/30e49ba54c662266ceb195550d9cf3608ba6966d/FootballAdaptation.json)**
 
 *(Right-click → "Save Link As" if it opens in browser)*
 
